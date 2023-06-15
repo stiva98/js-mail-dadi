@@ -1,0 +1,28 @@
+/*
+RESET
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-div {
+    display: flex;
+    margin: 1.25rem;
+}
+.user {
+    text-align: center;
+    height: 6.25rem;
+    width: 6.25rem;
+    border: 1px solid black;
+    padding: 2.8125rem;
+    margin-right: .625rem;
+}
+.pc {
+    text-align: center;
+    height: 6.25rem;
+    width: 6.25rem;
+    border: 1px solid black;
+    padding: 2.8125rem;
+}
